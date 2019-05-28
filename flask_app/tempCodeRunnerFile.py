@@ -1,0 +1,1 @@
+account = Account.authenticate_api(api_key)
